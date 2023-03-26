@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Szkola\\WSB\\5\\programowanie_zaawansowane\\zajecia3\\zajecia3\\zadanie\\zadanie\\zadanie.csproj": {}
+  },
+  "projects": {
+    "C:\\Szkola\\WSB\\5\\programowanie_zaawansowane\\zajecia3\\zajecia3\\zadanie\\zadanie\\zadanie.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Szkola\\WSB\\5\\programowanie_zaawansowane\\zajecia3\\zajecia3\\zadanie\\zadanie\\zadanie.csproj",
+        "projectName": "zadanie",
+        "projectPath": "C:\\Szkola\\WSB\\5\\programowanie_zaawansowane\\zajecia3\\zajecia3\\zadanie\\zadanie\\zadanie.csproj",
+        "packagesPath": "C:\\Users\\Mariusz-pp\\.nuget\\packages\\",
+        "outputPath": "C:\\Szkola\\WSB\\5\\programowanie_zaawansowane\\zajecia3\\zajecia3\\zadanie\\zadanie\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mariusz-pp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
